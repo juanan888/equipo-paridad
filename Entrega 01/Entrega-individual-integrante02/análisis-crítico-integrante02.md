@@ -20,10 +20,12 @@ De esta forma, busco contrastar la narrativa anunciada por el comité con la rea
 
 ## Explica a qué arquetipo de historia pertenece tu proyecto, por qué se ajusta y qué elementos se relacionan a él:  
 
-Este proyecto pertenece al arquetipo de observación, ya que se basa en analizar y observar datos a lo largo del tiempo, sin alterarlos, con el objetivo de poder identificar patrones y tendencias en los Juegos Olímpicos y sus disciplinas a lo largo del tiempo. Buscamos seguir el comportamiento de este evento y sus deportes durante un periodo extenso de tiempo (1900-2024).  
+Este proyecto pertenece al arquetipo de *observación*, ya que se basa en analizar y observar datos a lo largo del tiempo, sin alterarlos, con el objetivo de poder identificar patrones y tendencias en los Juegos Olímpicos y sus disciplinas a lo largo del tiempo. Buscamos seguir el comportamiento de este evento y sus deportes durante un periodo extenso de tiempo (1900-2024).  
 
 Los elementos que vinculan el proyecto a este arquetipo son:  
 - El uso de datos a través del tiempo, observando el cambio de 1900 con un 2.2% de participación femenina, hacia el 2024 con un 50% de participación femenina.  
 - La comparación directa entre variables, evaluando la cantidad de atletas, sus disciplinas y las medallas sin manipular ni inventar información.  
 - Búsqueda de tendencias a través de los comportamientos de los deportes a modo general. 
-- Historia basada en evidencia obtenida de números y datos recolectados.  
+- Historia basada en evidencia obtenida de números y datos recolectados.
+
+Al mismo tiempo, creo que también encaja con el arquetipo de *revelación*, ya que con nuestro trabajo buscamos la verdad detrás de ese 50/50 de paridad, identificando si hay disciplinas en las que esa paridad todavía no se ha logrado, por lo que de cierta forma nuestros datos podrían revelar algo "oculto".   
