@@ -1,4 +1,4 @@
-# Análisis crítico individual
+# Análisis crítico individual - Juan Antonio Gutiérrez
 ## ¿Qué espero contar y/o revelar del tema?
 Analizando la participación, espero revelar qué hay realmente detrás del 50/50 anunciado por el Comité Olímpico Internacional. Me interesa especialmente cambiar la escala de análisis: pasar de mirar los Juegos Olímpicos como un todo a obervar qué ocurre dentro de cada deporte y disciplina. Si solamente miramos la cifra general, París 2024 aparece como un hito indiscutible de igualdad. Sin embargo, esa cifra puede esconder diferencias importantes cuando preguntamos cómo se distribuyen hombres y mujeres dentro de las distintas competencias.
 
