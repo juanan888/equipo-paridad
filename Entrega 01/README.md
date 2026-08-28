@@ -77,13 +77,10 @@ Por esta razón, se realizará un proceso de integración de diferentes fuentes.
 5. Datos públicos y confiabilidad 
 Las fuentes utilizadas serán principalmente públicas. Se priorizarán: 
 
-1. Comité Olímpico Internacional (IOC): fuente institucional para cifras de participación, cuotas y políticas de igualdad. 
-
-2. Olympedia: fuente histórica especializada para resultados, atletas, deportes y eventos.  
-
-3. Bases de datos históricas derivadas de Olympedia: utilizadas como apoyo y punto de partida. 
-
-4. Fuentes académicas y periodísticas: utilizadas para contextualizar cambios históricos y contrastar hallazgos.  
+- Comité Olímpico Internacional (IOC): fuente institucional para cifras de participación, cuotas y políticas de igualdad. 
+- Olympedia: fuente histórica especializada para resultados, atletas, deportes y eventos.  
+- Bases de datos históricas derivadas de Olympedia: utilizadas como apoyo y punto de partida. 
+- Fuentes académicas y periodísticas: utilizadas para contextualizar cambios históricos y contrastar hallazgos.  
 
 La información histórica será tratada con especial precaución. El caso de París 1900 demuestra que existen diferencias en la forma de contabilizar participantes y eventos. Olympedia advierte que la edición se desarrolló en conjunto con la Exposición Universal y que no siempre existe consenso sobre qué competencias deben considerarse olímpicas.  
 
