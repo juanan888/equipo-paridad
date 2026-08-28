@@ -19,7 +19,7 @@ Con este contexto, nuestro proyecto busca analizar, mediante el uso de bases de 
 
 Aunque en París 2024 se alcanzó una por primera vez una paridad de género numérica entre la cantidad de participantes mujeres y hombres, esta igualdad no se replica necesariamente dentro de las propias disciplinas ni en las oportunidades competitivas disponibles para los deportistas, por lo que el 50/50 no representa una equidad de género absoluta en los Juegos Olímpicos.  
 
-Antecedentes 
+## Antecedentes 
 
 La participación femenina en los Juegos Olímpicos ha aumentado progresivamente durante el último siglo. París 1900 marcó la primera participación oficial de mujeres, aunque en una escala muy reducida. Olympedia señala que las primeras participantes oficiales compitieron en croquet, equitación, golf, vela y tenis. 
 
