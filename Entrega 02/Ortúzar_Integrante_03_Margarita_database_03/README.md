@@ -1,3 +1,4 @@
+## Documentación
 En la Entrega 01 optamos por bases de datos individuales, lo que complicó el proceso y no era ideal para realizar el proyecto. Tras los comentarios recibidos en la Entrega 01, nos dimos cuenta de que acotar todo a una sola base de datos nos daría un análisis mucho más profundo y con mejores ángulos periodísticos. Por esta razón, decidimos hacer una sola tabla, que, para esta entrega cada integrante haría el período de estudio de las últimas 10/9 ediciones de los Juegos Olímpicos de Verano. En mi caso individual, desde Seúl 1988 hasta París 2024. Este rango abarca exactamente 36 años de transformaciones en el programa olímpico y permite ver el proceso de modernización del Comité Olímpico Internacional (COI) hasta llegar a la paridad global declarada en 2024.  
 
 De esta forma, nuestra base es distinta, considerando categorías y dimensiones de análisis para cruzar los datos: 
