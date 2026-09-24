@@ -1,1 +1,2 @@
-hola
+# Tabla de oportunidades de medalla desde 1900 a 2024
+Sería una base de datos que registre si determinado año contó con la inclusión de una sección femenina o mixta que permitiera a las mujeres atletas la obtención de medallas. esta incluiría las variables de: año, deporte o disciplina, categoría (femenino, mixto o masculino), ¿entregó medalla?. La tabla permitirá observar de manera ordenada la evolución en la paridad de las distintas disciplinas.
