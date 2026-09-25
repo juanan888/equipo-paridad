@@ -1,26 +1,36 @@
 # Ficha Técnica y Diccionario de Datos
 
-## 1. Ficha Técnica
+## Ficha Técnica
 
-*   **Fuente de los datos:** Archivos de Olympedia y registros públicos del Comité Olímpico Internacional (COI.
-*   **Metodología de construcción:** Buscamos los datos edición por edición y luego los limpié y ordené usando Python (Pandas) en Google Colab para arreglar textos, sacar porcentajes y armar décadas.
-*   **Alcance de los datos:** Mi archivo cubre solo 10 ediciones de los Juegos Olímpicos de Verano, desde Londres 1948 hasta Los Ángeles 1984.
-*   **Característica de los datos:** Es una tabla ordenada por deporte y disciplina, donde lo más importante es el conteo de cuántos hombres y mujeres compitieron.
-*   **Observaciones:** Este bloque de años es vital para el grupo porque es la etapa más estancada. Muestra perfecto el letargo institucional antes de que empezara la modernización en los años 90.
+**Fuente de datos:**
+Utilicé datos históricos basados en los registros de Olympedia y el Comité Olímpico Internacional (COI).
+- https://www.olympedia.org/editions
+- https://www.olympics.com/ioc
 
-## 2. Diccionario de Datos
+**Metodología de la construcción de la base:**
+Para mantener la coherencia con el trabajo grupal, dividimos la historia de los Juegos Olímpicos. Mi investigación abarca 10 ediciones de los Juegos Olímpicos de Verano, desde Londres 1948 hasta Los Ángeles 1984. Para ordenar la información, agrupamos los microeventos por disciplina deportiva para no duplicar deportistas, categorizando la participación por género (Femenino, Masculino) en base a los registros de participación efectiva.
 
-| Variable | Descripción | Tipo de Dato | Valores Posibles |
-| :--- | :--- | :--- | :--- |
-| `jjoo` | Ciudad sede de los Juegos Olímpicos. | String | *Londres, Helsinki, Tokio, etc.* |
-| `anio` | Año del evento. | Integer | *1948, 1952 ... 1984* |
-| `decada` | Columna calculada para agrupar por décadas. | Integer | *1940, 1950, 1960, 1970, 1980* |
-| `deporte` | Deporte principal. | String | *Atletismo, Natación, Gimnasia* |
-| `disciplina` | La prueba específica. | String | *100m, Torneo Olímpico, etc.* |
-| `categoria` | Género oficial de la prueba. | String | *Femenino, Masculino, Mixto* |
-| `mujeres` | Cantidad total de cupos femeninos. | Integer | *0 - 1500* |
-| `hombres` | Cantidad total de cupos masculinos. | Integer | *0 - 1500* |
-| `total_atletas`| Suma total de hombres y mujeres. | Integer | *0 - 3000* |
-| `pct_mujeres` | Porcentaje de participación femenina. | Float | *0.0 - 100.0* |
-| `estado_paridad`| Etiqueta para saber qué tan grande es la brecha. | String | *Brecha alta, Cerca de la paridad, Paridad exacta* |
-| `medalla` | Indica si es una prueba que da medalla oficial. | String | *Sí / No* |
+**Alcance de los datos:**
+Los datos cubren el periodo de 1948 a 1984. Esta época es vital para nuestro análisis de paridad, ya que abarca el periodo de la Guerra Fría (incluyendo los grandes boicots de 1980 y 1984) y muestra la lenta, pero progresiva, incorporación de la mujer en el deporte (por ejemplo, la entrada del Voleibol femenino en 1964 y el Baloncesto femenino en 1976).
+
+**Característica de los datos:**
+Base de datos tabular agregada a nivel de disciplina por edición olímpica. Combina variables cualitativas categóricas (nombres de sedes, categorías, estado de medalla) y cuantitativas discretas (conteo de deportistas por género).
+
+**Otras observaciones sobre la base:**
+- El periodo analizado refleja fluctuaciones en los números totales debido a factores sociopolíticos (como el boicot a Moscú 1980 y Los Ángeles 1984).
+- Hay disciplinas como la Halterofilia que, durante todo este periodo, se mantuvieron exclusivamente masculinas, lo que ayuda a contrastar la brecha de género de la época.
+
+---
+
+## Diccionario de Datos
+
+| Variable | Descripción | Tipo de dato |
+| :--- | :--- | :--- |
+| **JJOO** | Juegos Olímpicos y nombre de la ciudad sede. Posibles valores: Londres, Helsinki, Melbourne, Roma, Tokio, Ciudad de México, Múnich, Montreal, Moscú, Los Ángeles. | Categórico (Texto) |
+| **AÑO** | Año de realización de la edición. Intervalos de 4 años. | Numérico (Entero), de 1948 a 1984 |
+| **DEPORTE** | Macrocategoría del COI (Ej: Atletismo, Deportes Acuáticos, Gimnasia). Permite agrupar disciplinas. | Categórico (Texto) |
+| **DISCIPLINA** | Modalidad específica dentro del deporte (Ej: Natación, Gimnasia Artística). Unidad principal de análisis. | Categórico (Texto) |
+| **CATEGORÍA** | Composición de género permitida (Femenino, Masculino). Crucial para medir la brecha. | Categórico (Texto) |
+| **N° MUJERES** | Cantidad total de atletas mujeres participantes. Un valor de 0 indica exclusividad masculina. | Numérico (Entero) |
+| **N° HOMBRES** | Cantidad total de atletas hombres participantes. Un valor de 0 indica exclusividad femenina. | Numérico (Entero) |
+| **MEDALLA** | Indicador de si la disciplina otorgó medallas oficiales. En esta base todas corresponden a eventos oficiales (SI). | Categórico (Texto) |
