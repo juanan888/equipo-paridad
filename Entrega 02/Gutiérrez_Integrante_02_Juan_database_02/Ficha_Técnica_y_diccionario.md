@@ -2,11 +2,11 @@
 
 ## 1. Ficha Técnica
 
-*   **Fuente de los datos:** Archivos de Olympedia y registros públicos del Comité Olímpico Internacional (COI)[cite: 1].
+*   **Fuente de los datos:** Archivos de Olympedia y registros públicos del Comité Olímpico Internacional (COI.
 *   **Metodología de construcción:** Buscamos los datos edición por edición y luego los limpié y ordené usando Python (Pandas) en Google Colab para arreglar textos, sacar porcentajes y armar décadas.
 *   **Alcance de los datos:** Mi archivo cubre solo 10 ediciones de los Juegos Olímpicos de Verano, desde Londres 1948 hasta Los Ángeles 1984.
 *   **Característica de los datos:** Es una tabla ordenada por deporte y disciplina, donde lo más importante es el conteo de cuántos hombres y mujeres compitieron.
-*   **Observaciones:** Este bloque de años es vital para el grupo porque es la etapa más estancada. Muestra perfecto el letargo institucional antes de que empezara la modernización en los años 90[cite: 5].
+*   **Observaciones:** Este bloque de años es vital para el grupo porque es la etapa más estancada. Muestra perfecto el letargo institucional antes de que empezara la modernización en los años 90.
 
 ## 2. Diccionario de Datos
 
