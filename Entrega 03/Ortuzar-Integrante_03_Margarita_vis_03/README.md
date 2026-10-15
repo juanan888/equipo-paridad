@@ -22,7 +22,7 @@ En resumen, en este gráfico se pueden observar con total claridad las transform
 
 ## Base de datos (CSV) que utilicé, cómo la procesé hasta dejarla lista para usar en la visualización que quieren hacer y por qué la seleccionaron: 
 
-LINK 
+https://uccl0-my.sharepoint.com/:x:/g/personal/mortuzart_estudiante_uc_cl/IQC1fUv1Q8UIT4t2nefF166OARnB481wlODCeUT6EZ_xfBc?e=EZVfwG 
 
 (El CSV fue subido a la entrega) 
 
