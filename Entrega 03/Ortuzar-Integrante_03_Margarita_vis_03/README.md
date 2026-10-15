@@ -1,3 +1,5 @@
+# Documentación
+
 ## Explicación de cómo se realizó el proceso de visualización, con los pasos y decisiones tomados:  
 
 Antes de empezar a hacer la visualización, revisé los distintos ejemplos que presenta la librería Altair, es decir, los gráficos con los que uno puede trabajar. Teniendo en cuenta las correcciones que recibimos sobre los errores de cobertura y comparabilidad en nuestros datos anteriores, entendí que no podíamos hacer un gráfico basado en filas sueltas o mal agrupadas. Con ello me di cuenta de que un gráfico de líneas (Line Chart with Point Markers) era la mejor alternativa para observar el comportamiento y la evolución del programa olímpico a lo largo de sus ediciones desde 1900 a 2024. 
