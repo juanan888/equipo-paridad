@@ -25,14 +25,11 @@ LINK
 (El CSV fue subido a la entrega) 
 
 Previo a la construcción de mi gráfico debimos arreglar y reestructurar la versión anterior, ya que presentaba grandes errores:  
+- Datos erróneos: Descubrimos que algunas cifras de atletas y división de disciplinas no coincidían con la realidad histórica de los Juegos Olímpicos. Tuve que verificar y editar los datos de manera manual, teniendo de respaldo los registros oficiales de Olympedia. 
+- Falta de datos: Siguiendo con las correcciones de la Entrega 02, comprendimos la necesidad de añadir columnas que entregaran información con respecto a los tipos de pruebas que hay en los Juegos Olímpicos. Para esto, añadimos las columnas de “N° Prueba Hombres”, “N° Prueba Mujeres”, “N° Pruebas Mixtas” y “N° Pruebas Abiertas”.  
+- Datos innecesarios: Teníamos unas columnas con datos innecesarios, como por ejemplo la de “Categoría” que señalaba si participaban mujeres y hombres, y la columna de “Medalla”, que señalaba si se obtenía o no medalla en el deporte. Estas columnas fueron eliminadas.  
 
-Datos erróneos: Descubrimos que algunas cifras de atletas y división de disciplinas no coincidían con la realidad histórica de los Juegos Olímpicos. Tuve que verificar y editar los datos de manera manual, teniendo de respaldo los registros oficiales de Olympedia. 
-
-Falta de datos: Siguiendo con las correcciones de la Entrega 02, comprendimos la necesidad de añadir columnas que entregaran información con respecto a los tipos de pruebas que hay en los Juegos Olímpicos. Para esto, añadimos las columnas de “N° Prueba Hombres”, “N° Prueba Mujeres”, “N° Pruebas Mixtas” y “N° Pruebas Abiertas”.  
-
-Datos innecesarios: Teníamos unas columnas con datos innecesarios, como por ejemplo la de “Categoría” que señalaba si participaban mujeres y hombres, y la columna de “Medalla”, que señalaba si se obtenía o no medalla en el deporte. Estas columnas fueron eliminadas.  
-
-Utilizamos esta base, ya que es la que hemos ido mejorando con las correcciones desde la Entrega 01. Además, creo que cuenta con información relevante y concreta para realizar un buen gráfico que logre dar a entender nuestra hipótesis.  
+Utilizamos esta base, ya que es la que hemos ido mejorando con las correcciones desde la Entrega 01. Además, creo que cuenta con información relevante y concreta para realizar un buen gráfico que logre dar a entender nuestra hipótesis. Para la realización del gráfico no se utilizó toda la información de la base, pero no fue necesario dividir la base, ya que las instrucciones de qué información utilizar fueron hechas en Python. 
 
 ## Ejemplos de preguntas a las que puede contestar mi visualización:  
 
