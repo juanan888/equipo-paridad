@@ -1,4 +1,4 @@
-# Documentación
+# Documentación Individual
 
 ## Explicación de cómo se realizó el proceso de visualización, con los pasos y decisiones tomados:  
 
