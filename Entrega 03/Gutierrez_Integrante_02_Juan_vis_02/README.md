@@ -12,7 +12,7 @@ Como no tengo conocimientos avanzados de programación en Python, **me apoyé en
 5. **Visualización:** Para graficarlo, le pedí a la IA que utilizara la librería `Altair` para crear un **Gráfico de Barras Horizontales**. Tomé esta decisión de diseño porque la longitud de la barra acostada representa de forma muy intuitiva la idea de una "línea de tiempo" o "duración de la espera".
 
 ## Base de datos (CSV) utilizada y procesamiento
-Utilicé la base de datos oficial en la que hemos estado trabajando como equipo, basada en los registros de **Olympedia.org** (archivo: `BASE DE DATOS(Hoja1).csv`). 
+Utilicé la base de datos oficial en la que hemos estado trabajando como equipo, basada en los registros de **Olympedia.org** (archivo subido como CSV `base_olympedia_database_ocupada`).
 *   **Por qué se seleccionó:** A diferencia de las bases que solo cuentan el número general de atletas, nuestra base tiene separadas las columnas de `N°PRUEBAS HOMBRES` y `N° PRUEBAS MUJERES`. Esta separación era fundamental para poder indicarle a la IA qué columnas debía mirar para encontrar el primer año de competencia por género.
 *   **Procesamiento previo y actual:** La base ya venía limpia por el trabajo grupal (donde borramos cosas que no nos servían, como si daban medalla o no). Para este gráfico en particular, el único procesamiento extra que hizo el script de Colab fue resumir la información: colapsó todos los datos dejando solo los nombres de los deportes y calculando los años de espera entre el debut masculino y femenino.
 
