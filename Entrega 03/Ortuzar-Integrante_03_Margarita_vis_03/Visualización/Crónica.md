@@ -1,4 +1,4 @@
-# Crónica:  
+# Crónica 
 
 El 26 de julio de 2024, los Juegos Olímpicos de París marcaron un hito importante: el Comité Olímpico Internacional (COI) anunció que se alcanzó una paridad de género en participantes de los juegos. Sin embargo, al analizar el número total de pruebas en vez del número de atletas individuales, obtenemos una imagen muy distinta que revela una desigualdad persistente. La paridad de 2024 no fue el resultado de un proceso fluido, sino el resultado de una aceleración tardía. 
 
