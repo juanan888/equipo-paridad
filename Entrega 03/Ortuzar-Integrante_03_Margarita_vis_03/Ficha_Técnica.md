@@ -4,7 +4,7 @@
 
 - Formato: CSV 
 - Unidad de análisis: Registro de participación por deportista, prueba, disciplina y edición olímpica. 
-- Cantidad de registros: 824 filas por 11 columnas.  
+- Cantidad de registros: 825 filas por 11 columnas.  
 - Período temporal: 1900 – 2024 
 - Fuentes principales: Olympedia y Registros del COI 
 
