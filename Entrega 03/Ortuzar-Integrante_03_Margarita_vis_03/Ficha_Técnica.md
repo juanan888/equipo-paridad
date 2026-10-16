@@ -19,7 +19,10 @@
 - N° PRUEBAS ABIERTAS: Cantidad de pruebas oficiales sin restricción de género.  
 - N° MUJERES: Cantidad de atletas mujeres participantes registradas. 
 - N° HOMBRES: Cantidad de atletas hombres participantes registrados. 
-- LINK: Enlace de la fuente o registro oficial de referencia. 
+- LINK: Enlace de la fuente o registro oficial de referencia.
+
+### Datos utilizados para mi gráfico: 
+"AÑO","N° PRUEBAS HOMBRES", "N° PRUEBAS MUJERES", "N° PRUEBAS MIXTAS" Y "N° PRUEBAS ABIERTAS" acumuladas por año.  
 
 ## Observaciones de la base de datos completa: 
 La base de datos original contenía variables cuantitativas y cualitativas que requirieron un proceso de limpieza para corregir inconsistencias y eliminar errores previos antes de realizar la visualización final. 
