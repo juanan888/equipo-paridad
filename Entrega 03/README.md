@@ -1,5 +1,5 @@
 ## Hipótesis Actual: 
-El acercamiento a la paridad de género en París 2024 no fue un proceso rápido ni fácil, sino que sufrió un ajuste tardío generado por la aceleración del programa femenino y la contención del programa masculino para llegar a un mayor nivel de igualdad. Sin embargo, todavía persisten barreras de género en disciplinas históricamente masculinizadas.
+El acercamiento a la paridad de género en París 2024 no fue un proceso rápido ni fácil, sino que se debió un ajuste tardío generado por la aceleración del programa femenino y la contención del programa masculino para llegar a un mayor nivel de igualdad. Sin embargo, todavía persisten barreras de género en disciplinas históricamente masculinizadas.
 
 ## Preguntas de investigación:  
 - ¿De qué manera la aceleración de las pruebas femeninas contribuyó a cerrar la brecha histórica en el programa olímpico?
