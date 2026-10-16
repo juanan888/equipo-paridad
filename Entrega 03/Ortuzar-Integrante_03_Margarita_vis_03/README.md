@@ -29,7 +29,7 @@ Previo a la construcción de mi gráfico debimos arreglar y reestructurar la ver
 - Falta de datos: Siguiendo con las correcciones de la Entrega 02, comprendimos la necesidad de añadir columnas que entregaran información con respecto a los tipos de pruebas que hay en los Juegos Olímpicos. Para esto, añadimos las columnas de “N° Prueba Hombres”, “N° Prueba Mujeres”, “N° Pruebas Mixtas” y “N° Pruebas Abiertas”.  
 - Datos innecesarios: Teníamos unas columnas con datos innecesarios, como por ejemplo la de “Categoría” que señalaba si participaban mujeres y hombres, y la columna de “Medalla”, que señalaba si se obtenía o no medalla en el deporte. Estas columnas fueron eliminadas.  
 
-Utilizamos esta base, ya que es la que hemos ido mejorando con las correcciones desde la Entrega 01. Además, creo que cuenta con los datos para realizar gráficos que logren dar a entender nuestra hipótesis. Cabe destacar, que para la realización del gráfico no se utilizó toda la información de la base, pero no fue necesario dividir la base, ya que fue dividida en Python. 
+Utilizamos esta base, ya que es la que hemos ido mejorando con las correcciones desde la Entrega 01. Además, creo que cuenta con los datos para realizar gráficos que logren dar a entender nuestra hipótesis. Cabe destacar, que para la realización del gráfico no se utilizó toda la información de la base, pero no fue necesario dividir la base, ya que fue dividida a través de códigos en Colab. 
 
 ## Ejemplos de preguntas a las que puede contestar mi visualización:  
 
