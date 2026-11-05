@@ -1,5 +1,6 @@
 # Análisis 
 Página web: https://margaritaortuzart.github.io/primera-pagina/
+
 *Esta página fue creada con la crónica anterior, sin correcciones, al no recibir correcciones de la Entrega 03 todavía. 
 
 Comencé el sitio web creando un nuevo repositorio llamado "primera-pagina". Luego cree una carpeta llamada "docs" que contiene un archivo "index.html", desarrollado con Visual Studio Code. Este nombre de archivo permite que los servidores web lo identifiquen automáticamente como la página de inicio o página principal del sitio. 
